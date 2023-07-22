@@ -12,7 +12,7 @@ This is the final result of the project:<br/><br/>
 ## Game installation
 - Download <strong><i>game.7z</i></strong> or run the command line below:
 ```sh
-git clone git@github.com:obrymec/Third-Person-Game.git third-person-game/
+git clone git@github.com:obrymec/third_person_game.git third_person_game/
 ```
 - Decompress <strong><i>game.7z</i></strong> file;
 - Run <strong><i>game.exe</i></strong> file.
