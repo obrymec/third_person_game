@@ -1,6 +1,6 @@
 # Third Person Game
+![Third Person](https://img.shields.io/badge/third%20person-1e394e.svg?style=for-the-badge)
 ![Video Game](https://img.shields.io/badge/video%20game-%232B2F33.svg?style=for-the-badge)
-![Cube Game](https://img.shields.io/badge/cube%20game-1e394e.svg?style=for-the-badge)
 ![3D Game](https://img.shields.io/badge/3d%20game-%23161616.svg?style=for-the-badge)
 
 This game is built at the third person within Unity3D.
