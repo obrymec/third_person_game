@@ -15,7 +15,7 @@ It's a simple game made to learn Unity engine.
 
 ## Reference <a id = "ref"></a>
 The project can be found via the link below :<br/>
-- https://gitlab.com/obrymec/simple_cube_game
+- https://gitlab.com/obrymec/third_person_game
 
 ## Final result <a id = "result"></a>
 This is the final result of the project :<br/>
