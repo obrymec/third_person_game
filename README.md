@@ -14,11 +14,11 @@ It's a simple game made to learn Unity engine.
 3. [Game installation](#install)
 
 ## Reference <a id = "ref"></a>
-The project can be found via the link below :<br/>
+The project can be found via the link below :
 - https://gitlab.com/obrymec/third_person_game
 
 ## Final result <a id = "result"></a>
-This is the final result of the project :<br/>
+This is the final result of the project :
 ### Video <a id = "video"></a>
 [![Watch the video](https://img.youtube.com/vi/M46gpZW6Vdw/maxresdefault.jpg)](https://youtu.be/M46gpZW6Vdw)
 
